@@ -13,7 +13,7 @@ function draw() {
   background(255,255,255);  
 
   translate(200,200);
-  roatate(-90);
+  rotate(-90);
 
   hr = hour();
   mn = minute();
